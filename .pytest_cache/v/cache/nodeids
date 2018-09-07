@@ -1,0 +1,6 @@
+[
+  "tests/test_fizzbuzz.py::test_return_buzz", 
+  "tests/test_fizzbuzz.py::test_return_fizz", 
+  "tests/test_fizzbuzz.py::test_return_fizzbuzz", 
+  "tests/test_fizzbuzz.py::test_return_number"
+]
