@@ -1,4 +1,4 @@
-#FizzBuzz in Python
+# FizzBuzz in Python
 
 Exercise in exposing myself to a new language. 
 
